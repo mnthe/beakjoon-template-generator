@@ -5,9 +5,10 @@
 ## How to Use
 ----
 
-### 1. Grunt 설치
+### 1. Grunt 및 node module 설치
 ```bash
 $ npm install -g grunt
+$ npm install
 ```
 
 ### 2. Grunt Task 실행
