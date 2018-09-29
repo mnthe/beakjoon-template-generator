@@ -18,7 +18,7 @@ $ grunt create
 ```
 
 ## How to Make Template
----
+----
 ### 1. Create Template File
 원하는대로 템플릿을 만든 뒤 `template.{language-extension}` 파일명으로 templates 폴더에 넣는다.
 
