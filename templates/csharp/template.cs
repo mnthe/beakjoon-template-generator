@@ -16,6 +16,7 @@ namespace BeakjoonOnlineJudge
 
         }
 
+#if TEST
         private static MockedIo GenerateModkedIo()
         {
             var mockedIo = new MockedIo();
@@ -25,6 +26,7 @@ namespace BeakjoonOnlineJudge
             mockedIo.InsertExpectedOutputs({{OUTPUTS}});
             return mockedIo;
         }
+#endif
 
         public static void Main(string[] args)
         {
@@ -38,6 +40,7 @@ namespace BeakjoonOnlineJudge
         }
     }
 
+#if TEST
     class MockedIo
     {
         public List<string> Inputs = new List<string>();
@@ -87,4 +90,5 @@ namespace BeakjoonOnlineJudge
             }
         }
     }
+#endif
 }
