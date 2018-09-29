@@ -4,6 +4,10 @@
   "description": "bootstrap code templates for beakjoon online judge",
   "author": "JungHun Kim",
   "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/mnthe/bjo-template-generator.git"
+  },
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "request": "^2.88.0"
