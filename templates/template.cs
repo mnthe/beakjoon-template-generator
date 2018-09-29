@@ -4,6 +4,26 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 
+/******************************************************************
+
+<{{TITLE_TEXT}}>
+
+문제
+----
+{{PROBLEM_TEXT}}
+
+
+입력
+----
+{{INPUT_TEXT}}
+
+
+출력
+---
+{{OUTPUT_TEXT}}
+
+
+******************************************************************/
 
 namespace BeakjoonOnlineJudge
 {
