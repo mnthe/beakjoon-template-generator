@@ -3,7 +3,6 @@
 백준 온라인 저지용 템플릿 생성기
 
 ## How to Use
-----
 
 ### 1. Grunt 및 node module 설치
 ```bash
@@ -19,7 +18,7 @@ $ grunt create
 ```
 
 ## How to Make Template
-----
+
 ### 1. Create Template File
 원하는대로 템플릿을 만든 뒤 `template.{language-extension}` 파일명으로 templates 폴더에 넣는다.
 
